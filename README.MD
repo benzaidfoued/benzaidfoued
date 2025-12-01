@@ -62,16 +62,14 @@ Safely expose Velero backups & schedules to AI assistants using the **Model Cont
 
 ## 🛠 Technologies I Work With
 
-#### **Cloud Native**
-Kubernetes · OpenShift · OpenStack · Rancher · KubeVirt · VMware · RHACM  
-Crossplane · Terraform · VMM · Istio · Envoy · Cilium · Calico . F5
-
 #### **Networking & Infra**
-BGP-heavy multi-networking · Telco Core · Edge · Multi-cluster · VMWARE · OpenStack
+BGP-heavy K8 Multi-networking · Telco Core · Edge · Orchestration · VMWARE · OpenStack
 
 #### **Programming**
 Go · Python · Bash 
 
+#### **Cloud Native**
+Simply * toys  🚀
 ---
 
 ## 🤝 Let's Connect
