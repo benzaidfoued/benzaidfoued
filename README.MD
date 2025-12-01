@@ -28,7 +28,7 @@
 - 🎤 **Speaker at Red Hat Summit (Boston, 2025)** – cloud-native automation for 5G CNFI environments.
 - 🌍 Based in **Montreal, QC (Canada)** and active in cloud-native communities.
 
-I believe platforms should function as a product: fully abstracted, self-service, and extensible — where developers run any application effortlessly and activate operational features on demand.
+I believe platforms should function as a product: fully abstracted, self-service, and extensible where developers run any application effortlessly and activate operational features on demand.
 
 ---
 
