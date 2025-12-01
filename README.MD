@@ -3,7 +3,7 @@
 <h1 align="center">Hey, I'm Foued 👋</h1>
 
 <p align="center">
-  <b>Senior Cloud Architect • Cloud Native • Modernization&Transformation </b><br/>
+  <b>Senior Cloud Architect • Cloud Native/AI • Modernization&Transformation </b><br/>
   <b>Montreal, Quebec – Canada 🇨🇦</b>
 </p>
 
@@ -63,13 +63,13 @@ Safely expose Velero backups & schedules to AI assistants using the **Model Cont
 ## 🛠 Technologies I Work With
 
 #### **Networking & Infra**
-BGP-heavy K8 Multi-networking · Telco Core · Edge · Orchestration · VMWARE · OpenStack
+- BGP-heavy K8 Multi-networking · Telco Core/Edge · IaC · Orchestration · VMWARE · OpenStack · AI · Security
 
 #### **Programming**
-Go · Python · Bash 
+- Go · Python · Bash 
 
 #### **Cloud Native**
-Simply all toys  🚀
+- Simply all toys  🚀
 
 ---
 
