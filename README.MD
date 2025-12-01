@@ -1,82 +1,92 @@
-<!-- Header --> <h1 align="center">Hey, I'm Foued 👋</h1> <p align="center"> <b>Senior Cloud Architect • Cloud Native • GitOps • Kubernetes</b><br/> <b>Montreal, Quebec – Canada 🇨🇦</b> </p> <p align="center"> <a href="https://github.com/benzaidfoued"> <img src="https://img.shields.io/github/followers/benzaidfoued?label=Followers&style=flat-square" alt="GitHub Followers"> </a> <a href="https://github.com/benzaidfoued?tab=repositories"> <img src="https://img.shields.io/github/stars/benzaidfoued?affiliations=OWNER&style=flat-square" alt="GitHub Stars"> </a> <a href="https://www.linkedin.com/in/fouedbenzaid/"> <img src="https://img.shields.io/badge/LinkedIn-Foued%20Benzaid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> </p>
-🚀 About Me
 
-💼 Senior Cloud Architect building large-scale cloud-native platforms.
+<!-- Header -->
+<h1 align="center">Hey, I'm Foued 👋</h1>
 
-☸️ Deeply into Platform engineering, Infra Automation & Modernization, Linux.
+<p align="center">
+  <b>Senior Cloud Architect • Cloud Native • GitOps • Kubernetes</b><br/>
+  <b>Montreal, Quebec – Canada 🇨🇦</b>
+</p>
 
-🎤 Speaker at Red Hat Summit (Boston, 2025)
-Presented a session on cloud-native automation for telco environments.
+<p align="center">
+  <a href="https://github.com/benzaidfoued">
+    <img src="https://img.shields.io/github/followers/benzaidfoued?label=Followers&style=flat-square" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/benzaidfoued?tab=repositories">
+    <img src="https://img.shields.io/github/stars/benzaidfoued?affiliations=OWNER&style=flat-square" alt="GitHub Stars">
+  </a>
+  <a href="https://www.linkedin.com/in/fouedbenzaid/">
+    <img src="https://img.shields.io/badge/LinkedIn-Foued%20Benzaid-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-🌍 Based in Montreal, QC (Canada) and active in cloud-native communities.
+---
 
-I believe platforms should be predictable, observable, and boring — and developers should experience a frictionless environment powered by strong automation and GitOps-driven workflows.
+## 🚀 About Me
 
-🎤 Talks & Conferences
-🔹 Red Hat Summit 2025 – Boston
+- 💼 **Senior Cloud Architect** building large-scale cloud-native platforms.
+- 🧩 Deeply into **Platform engineering**, **Infra Automation & Modernization**, **Linux**.
+- 🎤 **Speaker at Red Hat Summit (Boston, 2025)** – cloud-native automation for telco environments.
+- 🌍 Based in **Montreal, QC (Canada)** and active in cloud-native communities.
 
-Session: "Core Infrastructure Automation for Telco at Scale"
-📌 Watch / event link:
+I believe platforms should be **predictable, observable, and boring** — and developers should experience a frictionless environment powered by strong automation and GitOps-driven workflows.
+
+---
+
+## 🎤 Talks & Conferences
+
+### 🔹 Red Hat Summit 2025 – Boston
+
+**Session:** _Core Infrastructure Automation for Telco at Scale_  
+📌 **Event link:**  
 https://events.experiences.redhat.com/widget/redhat/sum25/SessionCatalog2025/session/1731531324902001V5Wf
 
-A deep dive into building reliable, automated 5G CNFI telco infrastructures based on OpenShift & RHACM using cloud-native tooling, GitOps patterns, and scalable automation practices.
+A deep dive into building automated 5G CNFI telco infrastructures using **OpenShift & RHACM**, cloud-native tooling, and GitOps patterns.
 
-🧩 Recent Featured Work
-🔹 Velero MCP Server
+---
 
-Safely expose your Velero backups & schedules to AI assistants using the Model Context Protocol (MCP).
+## 🌟 Recent Featured Work — Velero MCP Server
 
-Repo: 👉 https://github.com/benzaidfoued/velero-mcp
+Safely expose Velero backups & schedules to AI assistants using the **Model Context Protocol (MCP)**.
 
-Read-only MCP server for:
+🔗 https://github.com/benzaidfoued/velero-mcp
 
-Backup CRDs
+- Backup CRDs  
+- Schedule CRDs  
+- Exposed MCP tools:
+  - `list_velero_backups`
+  - `list_velero_schedules`
+  - `get_velero_backup`
+  - `generate_velero_backup_yaml`
 
-Schedule CRDs
+---
 
-Tools like:
+## 🛠 Technologies I Work With
 
-list_velero_backups
+#### **Cloud Native**
+Kubernetes · OpenShift · OpenStack · KubeVirt · VMware · RHACM  
+Crossplane · Helm · Kustomize · IAM · OIDC · Secrets Mgmt  
 
-list_velero_schedules
+#### **Networking & Infra**
+BGP-heavy multi-networking · Telco Core · Edge · Multi-cluster  
 
-get_velero_backup
+#### **Programming**
+Go · Python · Bash · YAML  
 
-generate_velero_backup_yaml
+---
 
-Designed for platform engineers who want AI help without granting write access to the cluster.
+## 🤝 Let's Connect
 
-🛠 Technologies I Work With
+LinkedIn: https://www.linkedin.com/in/fouedbenzaid  
+GitHub: https://github.com/benzaidfoued  
 
-Cloud Native / Platform Engineering:
+---
 
-Kubernetes • OpenShift • OpenStack • KubeVirt • VMware • RHACM
+## 📊 GitHub Stats
 
-Crossplane • Helm • Kustomize • OIDC • IAM • Secret Management
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=benzaidfoued&show_icons=true&theme=tokyonight" />
+</p>
 
-Networking & Infra:
-
-Multi-Networking (BGP-heavy environments)
-
-Telco Core / Edge architectures
-
-High scalability & multi-cluster patterns
-
-Programming & Automation:
-
-Go (OSS contributions, cloud-native tooling)
-
-Python (MCP servers, automation, validation tools)
-
-Bash, YAML (you know how it is 😄)
-
-🤝 Let's Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/fouedbenzaid
-
-🐙 GitHub: https://github.com/benzaidfoued
-
-If you're working on Kubernetes, GitOps, Crossplane, AI + Infra, or Telco cloud, feel free to reach out or collaborate.
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=benzaidfoued&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=benzaidfoued&theme=tokyonight" /> </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=benzaidfoued&theme=tokyonight" />
+</p>
