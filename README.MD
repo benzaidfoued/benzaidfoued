@@ -28,6 +28,8 @@
 - 🎤 **Speaker at Red Hat Summit (Boston, 2025)** – cloud-native automation for 5G CNFI environments.
 - 🌍 Based in **Montreal, QC (Canada)** and active in cloud-native communities.
 
+( My Preferred autoscaling fuel: espresso + black chocolate 🚀 ☕☕☕ 🚀 )
+
 I believe platforms should be **predictable, observable, and boring** — and developers should experience a frictionless environment powered by strong automation and GitOps-driven workflows.
 
 ---
@@ -69,7 +71,8 @@ BGP-heavy K8 Multi-networking · Telco Core · Edge · Orchestration · VMWARE �
 Go · Python · Bash 
 
 #### **Cloud Native**
-Simply * toys  🚀
+Simply all toys  🚀
+
 ---
 
 ## 🤝 Let's Connect
