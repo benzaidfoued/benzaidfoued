@@ -23,7 +23,7 @@
 ## 🚀 About Me
 
 - 💼 **Senior Cloud Architect** building large-scale cloud-native platforms.
-- ☸️ Deeply into **Platform engineering**, **Infra Automation&Modernization**, **Linux** .
+- ☸️ Deeply into **Platform engineering**, **Infra Automation & Modernization**, **Linux**.
 - 🎤 **Speaker at Red Hat Summit (Boston, 2025)**  
   Presented a session on cloud-native automation for telco environments.
 - 🌍 Based in **Montreal, QC (Canada)** and active in cloud-native communities.
@@ -49,42 +49,42 @@ A deep dive into building reliable, automated 5G CNFI telco infrastructures base
 
 > Safely expose your Velero backups & schedules to AI assistants using the **Model Context Protocol (MCP)**.
 
-**Repo:** 👉 [benzaidfoued/velero-mcp](https://github.com/benzaidfoued/velero-mcp)
+**Repo:** 👉 https://github.com/benzaidfoued/velero-mcp
 
 - Read-only MCP server for:
-  - `Backup` CRDs
-  - `Schedule` CRDs
+  - `Backup` CRDs  
+  - `Schedule` CRDs  
 - Tools like:
-  - `list_velero_backups`
-  - `list_velero_schedules`
-  - `get_velero_backup`
-  - `generate_velero_backup_yaml`
+  - `list_velero_backups`  
+  - `list_velero_schedules`  
+  - `get_velero_backup`  
+  - `generate_velero_backup_yaml`  
 - Designed for **platform engineers** who want AI help without granting write access to the cluster.
 
 ---
 
 ## 🛠 Technologies I Work With
 
-**Cloud Native / Platform Engineering:**
-- Kubernetes • OpenShift • OpenStack • Kubevirt • VMWARE • RHACM  
-- Crossplane • Kustomize • Helm • OIDC, IAM, Secret Management
+**Cloud Native / Platform Engineering:**  
+- Kubernetes • OpenShift • OpenStack • KubeVirt • VMware • RHACM  
+- Crossplane • Helm • Kustomize • OIDC • IAM • Secret Management  
 
-**Networking & Infra:**
-- Multi-Networking (BGP heavy environments)  
+**Networking & Infra:**  
+- Multi-Networking (BGP-heavy environments)  
 - Telco Core / Edge architectures  
 - High scalability & multi-cluster patterns  
 
-**Programming & Automation:**
-- Go (for OSS contributions and cloud-native tooling)
-- Python (MCP servers, automations, validation tools)
+**Programming & Automation:**  
+- Go (OSS contributions, cloud-native tooling)  
+- Python (MCP servers, automation, validation tools)  
 - Bash, YAML (you know how it is 😄)
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 **LinkedIn:** [linkedin.com/in/fouedbenzaid](https://www.linkedin.com/in/fouedbenzaid/)
-- 🐙 **GitHub:** [@benzaidfoued](https://github.com/benzaidfoued)
+- 💼 LinkedIn: https://www.linkedin.com/in/fouedbenzaid  
+- 🐙 GitHub: https://github.com/benzaidfoued
 
 If you're working on **Kubernetes, GitOps, Crossplane, AI + Infra, or Telco cloud**, feel free to reach out or collaborate.
 
@@ -99,4 +99,3 @@ If you're working on **Kubernetes, GitOps, Crossplane, AI + Infra, or Telco clou
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=benzaidfoued&theme=tokyonight" />
 </p>
-
