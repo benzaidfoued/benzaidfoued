@@ -3,7 +3,7 @@
 <h1 align="center">Hey, I'm Foued 👋</h1>
 
 <p align="center">
-  <b>Senior Cloud Architect • Cloud Native • GitOps • Kubernetes</b><br/>
+  <b>Senior Cloud Architect • Cloud Native • Modernization&Transformation </b><br/>
   <b>Montreal, Quebec – Canada 🇨🇦</b>
 </p>
 
@@ -25,7 +25,7 @@
 
 - 💼 **Senior Cloud Architect** building large-scale cloud-native platforms.
 - 🧩 Deeply into **Platform engineering**, **Infra Automation & Modernization**, **Linux**.
-- 🎤 **Speaker at Red Hat Summit (Boston, 2025)** – cloud-native automation for telco environments.
+- 🎤 **Speaker at Red Hat Summit (Boston, 2025)** – cloud-native automation for 5G CNFI environments.
 - 🌍 Based in **Montreal, QC (Canada)** and active in cloud-native communities.
 
 I believe platforms should be **predictable, observable, and boring** — and developers should experience a frictionless environment powered by strong automation and GitOps-driven workflows.
@@ -63,14 +63,14 @@ Safely expose Velero backups & schedules to AI assistants using the **Model Cont
 ## 🛠 Technologies I Work With
 
 #### **Cloud Native**
-Kubernetes · OpenShift · OpenStack · KubeVirt · VMware · RHACM  
-Crossplane · Helm · Kustomize · IAM · OIDC · Secrets Mgmt  
+Kubernetes · OpenShift · OpenStack · Rancher · KubeVirt · VMware · RHACM  
+Crossplane · Terraform · VMM · Istio · Envoy · Cilium · Calico . F5
 
 #### **Networking & Infra**
-BGP-heavy multi-networking · Telco Core · Edge · Multi-cluster  
+BGP-heavy multi-networking · Telco Core · Edge · Multi-cluster · VMWARE · OpenStack
 
 #### **Programming**
-Go · Python · Bash · YAML  
+Go · Python · Bash 
 
 ---
 
