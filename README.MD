@@ -82,7 +82,6 @@ GitHub: https://github.com/benzaidfoued
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=benzaidfoued&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=benzaidfoued&show_icons=true&theme=tokyonight" />
