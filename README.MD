@@ -24,7 +24,7 @@
 ## 🚀 About Me
 
 - 💼 **Senior Cloud Architect** building large-scale cloud-native platforms.
-- 🧩 Deeply into **Platform engineering and AI**, **Infra Automation & Modernization**, **Linux**.
+- 🧩 Deeply into **Platform engineering, AI**, **Infra Automation & Modernization**, **Linux**.
 - 🎤 **Speaker at Red Hat Summit (Boston, 2025)** – cloud-native automation for 5G CNFI environments.
 - 🌍 Based in **Montreal, QC (Canada)** and active in cloud-native communities.
 
