@@ -26,7 +26,7 @@
 - 💼 **Senior Cloud Architect** building large-scale infrastructure and platforms.
 - 🧩 Deeply into ***nix, **Core Infrastructure ,AI** & Modernization** .
 - 🏗️ Designing and architecting distributed systems at scale .
-- 🎤 **Speaker at: Red Hat Summit (Boston, 2025)** about 5G SACore. and at SAP DCOM ( Canada 2026)** about Autonomous Platforms .
+- 🎤 **Speaker at: Red Hat Summit (Boston, 2025)** about 5G SACore. and at SAP DCOM** about Autonomous Platforms .
 - 🌍 Based in **Montreal, QC (Canada)** and active in cloud-native communities.
 
 
