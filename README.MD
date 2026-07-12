@@ -49,22 +49,6 @@ https://events.experiences.redhat.com/widget/redhat/sum25/SessionCatalog2025/ses
 
 ---
 
-## 🌟 Recent Featured Work — Velero MCP Server
-
-Safely expose Velero backups & schedules to AI assistants using the **Model Context Protocol (MCP)**.
-
-🔗 https://github.com/benzaidfoued/velero-mcp
-
-- Backup CRDs  
-- Schedule CRDs  
-- Exposed MCP tools:
-  - `list_velero_backups`
-  - `list_velero_schedules`
-  - `get_velero_backup`
-  - `generate_velero_backup_yaml`
-
----
-
 ## 🛠 Technologies I Work With
 
 #### **Networking & Infra**
@@ -79,6 +63,22 @@ Safely expose Velero backups & schedules to AI assistants using the **Model Cont
 
 LinkedIn: https://www.linkedin.com/in/fouedbenzaid  
 GitHub: https://github.com/benzaidfoued  
+
+---
+
+## 🌟 Recent Featured Work — Velero MCP Server
+
+Safely expose Velero backups & schedules to AI assistants using the **Model Context Protocol (MCP)**.
+
+🔗 https://github.com/benzaidfoued/velero-mcp
+
+- Backup CRDs  
+- Schedule CRDs  
+- Exposed MCP tools:
+  - `list_velero_backups`
+  - `list_velero_schedules`
+  - `get_velero_backup`
+  - `generate_velero_backup_yaml`
 
 ---
 
