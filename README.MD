@@ -28,7 +28,6 @@
 - 🎤 **Speaker at :  Red Hat Summit (Boston, 2025)** – 5G SACore . and SAP DCOM ( Canada 2026) ** - Autonomous Platforms
 - 🌍 Based in **Montreal, QC (Canada)** and active in cloud-native communities.
 
-I believe platforms should function as a product: fully abstracted, self-service, and extensible where developers run any application effortlessly and activate operational features on demand.
 
 ---
 
@@ -41,6 +40,9 @@ I believe platforms should function as a product: fully abstracted, self-service
 https://events.experiences.redhat.com/widget/redhat/sum25/SessionCatalog2025/session/1731531324902001V5Wf
 
 A deep dive into building automated 5G CNFI telco infrastructures using **OpenShift & RHACM**, cloud-native tooling, and GitOps patterns.
+
+### 🔹 SAP DCOM 2026
+**Session:** _Abstracting Coplexity at Scale_
 
 ---
 
