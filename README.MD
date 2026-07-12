@@ -24,7 +24,7 @@
 ## 🚀 About Me
 
 - 💼 **Senior Cloud Architect** building large-scale infrastructure and platforms.
-- 🧩 Deeply into **nix, **Core Infrastructure AI** & Modernization** .
+- 🧩 Deeply into ***nix, **Core Infrastructure AI** & Modernization** .
 - 🎤 **Speaker at :  Red Hat Summit (Boston, 2025)** – 5G SACore . and SAP DCOM ( Canada 2026) ** - Autonomous Platforms
 - 🌍 Based in **Montreal, QC (Canada)** and active in cloud-native communities.
 
@@ -39,10 +39,12 @@
 📌 **Event link:**  
 https://events.experiences.redhat.com/widget/redhat/sum25/SessionCatalog2025/session/1731531324902001V5Wf
 
-A deep dive into building automated 5G CNFI telco infrastructures using **OpenShift & RHACM**, cloud-native tooling, and GitOps patterns.
+🎤 A deep dive into building automated 5G CNFI telco infrastructures using **OpenShift & RHACM**, cloud-native tooling, and GitOps patterns.
 
 ### 🔹 SAP DCOM 2026
 **Session:** _Abstracting Coplexity at Scale_
+
+🎤 Talked about abstracting infrastructure complexity at scale through self-service provisioning of core infrastructure on demand.
 
 ---
 
@@ -65,13 +67,10 @@ Safely expose Velero backups & schedules to AI assistants using the **Model Cont
 ## 🛠 Technologies I Work With
 
 #### **Networking & Infra**
-- BGP-heavy K8 Multi-networking · Telco Core/Edge · IaC · Orchestration · VMWARE · OpenStack · AI · Security
+- Experienced with backbone and large-scale network infrastructures · Telco Core/Edge · IaC · Orchestration · VMWARE · OpenStack · AI · Security
 
 #### **Programming**
 - Go · Python · Bash 
-
-#### **Cloud Native**
-- Simply all toys  🚀
 
 ---
 
