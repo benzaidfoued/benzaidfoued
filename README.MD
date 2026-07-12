@@ -23,9 +23,9 @@
 
 ## 🚀 About Me
 
-- 💼 **Senior Cloud Architect** building large-scale cloud-native platforms.
-- 🧩 Deeply into **Platform engineering, AI**, **Core Infrastructure Automation & Modernization**, **Linux**.
-- 🎤 **Speaker at Red Hat Summit (Boston, 2025)** – 5G SACore .(SAP, DCOM2026)** - Autonomous Platforms
+- 💼 **Senior Cloud Architect** building large-scale infrastructure and platforms.
+- 🧩 Deeply into **nix, **Core Infrastructure AI** & Modernization** .
+- 🎤 **Speaker at :  Red Hat Summit (Boston, 2025)** – 5G SACore . and SAP DCOM ( Canada 2026) ** - Autonomous Platforms
 - 🌍 Based in **Montreal, QC (Canada)** and active in cloud-native communities.
 
 I believe platforms should function as a product: fully abstracted, self-service, and extensible where developers run any application effortlessly and activate operational features on demand.
